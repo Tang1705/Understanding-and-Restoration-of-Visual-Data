@@ -1,0 +1,6 @@
+[submodule "Restoration of Visual Data"]
+	path = Restoration of Visual Data
+	url = git@github.com:Tang1705/Image-and-Video-Restoration.git
+[submodule "Understanding of Visual Data"]
+	path = Understanding of Visual Data
+	url = git@github.com:Tang1705/Image-and-Video-Understanding.git
